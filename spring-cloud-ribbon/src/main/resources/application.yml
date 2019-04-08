@@ -1,0 +1,13 @@
+server:
+  port: ${random.int[10000,40000]}
+spring :
+  application :
+    name : ribbon-demo
+debug : false
+database_id : 1
+machine_id : 1
+management:
+ endpoints:
+  web:
+   exposure:
+    include: "*"

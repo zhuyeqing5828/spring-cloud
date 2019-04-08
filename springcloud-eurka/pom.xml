@@ -11,7 +11,7 @@
 	<groupId>me.zhuyeqing</groupId>
 	<artifactId>spring-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-eureka</name>
+	<name>spring-eureka-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
